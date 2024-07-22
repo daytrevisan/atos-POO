@@ -1,0 +1,15 @@
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.sourcelink.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\bin\Debug\net8.0\Encapsulamento.exe
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\bin\Debug\net8.0\Encapsulamento.deps.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\bin\Debug\net8.0\Encapsulamento.runtimeconfig.json
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\bin\Debug\net8.0\Encapsulamento.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\bin\Debug\net8.0\Encapsulamento.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\refint\Encapsulamento.dll
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
+C:\Users\dayan\OneDrive\Documentos\Cursos\Programacao\Atos\Csharp\POO\Exerc-POO\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll
